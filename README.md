@@ -133,21 +133,7 @@ Every state transition is logged in the audit system.
 - Signature Canvas
 
 ---
-
-# 📂 Project Structure
-document-signature-app/
-│
-├── config/
-├── controller/
-├── service/
-├── repository/
-├── entity/
-├── dto/
-├── util/
-├── exception/
-└── DocumentSignatureApplication.java
----
-
+⭐ If you like this project, consider giving it a star.
 If you want, I can now:
 
 - Make a **more visually impressive version with badges and shields**
