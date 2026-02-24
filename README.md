@@ -135,16 +135,17 @@ Every state transition is logged in the audit system.
 ---
 
 # 📂 Project Structure
----
-
-# 🚀 How to Run
-
-## Backend
-
-```bash
-mvn clean install
-mvn spring-boot:run
-
+document-signature-app/
+│
+├── config/
+├── controller/
+├── service/
+├── repository/
+├── entity/
+├── dto/
+├── util/
+├── exception/
+└── DocumentSignatureApplication.java
 ---
 
 If you want, I can now:
